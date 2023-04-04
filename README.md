@@ -2,6 +2,8 @@
 
 ## 1 спринт
 
+### Ссылка на netlify - https://gregarious-sorbet-2a69b1.netlify.app
+
 ### UI дизайн мессенджера - https://www.figma.com/file/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?node-id=0-1&t=AnImaUkYMfswwOcV-0
 
 ### Реализовано
