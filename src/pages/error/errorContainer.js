@@ -1,9 +1,9 @@
 import "./error.scss";
 import errorTemplate from "./error.hbs";
 
-const errorContainer = () => {
+const errorContainer = (errorString) => {
   const context = {
-    errorNumber: "500",
+    errorNumber: errorString,
   };
 
   return errorTemplate(context);
